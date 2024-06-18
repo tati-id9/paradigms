@@ -18,3 +18,4 @@ init_lst = list(i for i in range(1,16))
 n = int(input("введите значение для поиска "))
 print(init_lst)
 print(search_recursive(n, init_lst))
+
